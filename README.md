@@ -8,7 +8,7 @@ A full-stack application for exploring country data and flags. This solution inc
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Backend**: ASP.NET Core 8 Web API
 - **Frontend**: React (Vite / Create React App)
