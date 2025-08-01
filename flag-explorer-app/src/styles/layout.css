@@ -1,0 +1,14 @@
+﻿.country-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: 1.5rem;
+    padding: 1rem;
+    justify-items: center;
+    align-items: start;
+}
+
+@media (max-width: 768px) {
+    .country-grid {
+        grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    }
+}

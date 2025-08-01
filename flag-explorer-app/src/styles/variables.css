@@ -1,0 +1,10 @@
+﻿:root {
+    --primary-color: #007bff;
+    --font-size-sm: 0.875rem;
+    --font-size-md: 1rem;
+    --font-size-lg: 1.25rem;
+    --padding: 1rem;
+    --border-radius: 0.5rem;
+    --shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    --font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
