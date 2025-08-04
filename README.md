@@ -27,7 +27,7 @@ Ensure the following are installed on your system:
 
 ## Running the App with Docker Compose
 
-To build and run the full stack:
+To build and run the full stack. Run it on your http://localhost:3000 :
 
 ```bash
 docker-compose up --build
